@@ -2,6 +2,8 @@
 
 Local-first multi-model LLM council that orchestrates answers, anonymized peer review, and chairman synthesis entirely on local Ollama.
 
+**Case study:** [LLM Council — Local Multi-LLM Orchestrator](https://syedtashfin.com/case-studies/llm-council-local-multi-llm-orchestrator).
+
 ## 30-second overview
 LLM Council is a local-only, multi-service orchestration pattern that gathers answers from multiple models, runs anonymized peer review, and synthesizes a final response with a chairman model while tracking health, latency, and reproducible run history.
 - Local-only inference via Ollama (no cloud providers)
